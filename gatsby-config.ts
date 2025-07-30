@@ -13,7 +13,7 @@ const config: GatsbyConfig = {
     siteHeadline: `portfolio`,
     siteUrl: `https://dimitar.portfolio.com`,
     siteDescription: `This is my portfolio website`,
-    siteImage: `/banner.jpg`,
+    siteImage: '/Users/dimi/WebPage/ddil.portfolio/static/Demeter Logo.jpg', //`/banner.jpg`,
     siteLanguage: `en`,
     author: `Dimitar`,
   },
