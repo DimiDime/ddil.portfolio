@@ -9,8 +9,8 @@ const config: GatsbyConfig = {
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.mjs
     siteTitle: `Portfolio Dimitar`,
-    siteTitleAlt: `Portfolio`,
-    siteHeadline: `portfolio`,
+    siteTitleAlt: `Dimitar Portfolio`,
+    siteHeadline: `Dimitar Portfolio`,
     siteUrl: `https://dimitar.portfolio.com`,
     siteDescription: `This is my portfolio website`,
     siteImage: '/Users/dimi/WebPage/ddil.portfolio/static/Demeter Logo.jpg', //`/banner.jpg`,
